@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.google.com/index.html</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,7 +38,19 @@
   </url>
   <url>
     <loc>http://www.google.com/postcard-project.html</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.google.com/%E5%BF%83%E9%9D%88%E6%A7%8B%E6%88%90.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.google.com/catalog.html</loc>
+    <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
