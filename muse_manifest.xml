@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611327401877">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611327821185">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="259354625" ref="index"/>
     <file name="lab-kill-lab-2020.css" crc="3865865460" ref="lab-kill-lab-2020"/>
     <file name="nomq_index.css" crc="3882564055" ref="index"/>
-    <file name="postcard-project.css" crc="297668612" ref="postcard-project"/>
+    <file name="postcard-project.css" crc="4189396895" ref="postcard-project"/>
     <file name="catalog.css" crc="3893245964" ref="catalog"/>
     <file name="____.css" crc="93731750" ref="心靈構成"/>
   </folder>
@@ -68,10 +68,16 @@
     <file name="u24096-4_2x2.png" crc="4251701934" ref="index"/>
     <file name="u24089-6.png" crc="28364563" ref="catalog"/>
     <file name="u24089-6_2x.png" crc="4173929894" ref="catalog"/>
+    <file name="bird_gif.gif" crc="438272212" seo="true" ref="postcard-project">
+      <caption webpage="postcard-project" alt=""/>
+    </file>
+    <file name="bird_gif_2x.gif" crc="438272212" seo="true" ref="postcard-project">
+      <caption webpage="postcard-project" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3985394470" seo="true" mt="1611326957299" redirect="true"/>
   <file name="lab-kill-lab-2020.html" crc="4016770852" seo="true" mt="1610772215127" redirect="true"/>
-  <file name="postcard-project.html" crc="495795899" seo="true" mt="1611310260595" redirect="true"/>
+  <file name="postcard-project.html" crc="3951802429" seo="true" mt="1611327812166" redirect="true"/>
   <file name="心靈構成.html" crc="443103742" seo="true" mt="1611326397554" redirect="false"/>
   <file name="catalog.html" crc="145662902" seo="true" mt="1611326404944" redirect="true"/>
 </manifest>

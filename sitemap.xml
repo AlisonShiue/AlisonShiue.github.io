@@ -41,6 +41,12 @@
     <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.google.com/images/bird_gif.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.google.com/images/bird_gif_2x.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.google.com/%E5%BF%83%E9%9D%88%E6%A7%8B%E6%88%90.html</loc>
