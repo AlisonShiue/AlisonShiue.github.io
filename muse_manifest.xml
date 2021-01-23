@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611366482153">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611366529682">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="434834187" ref="index"/>
@@ -61,10 +61,10 @@
     <file name="u22940-5_2x2.png" crc="480645499" ref="index"/>
     <file name="u22946-72.png" crc="4081398697" ref="index"/>
     <file name="u22946-7_2x2.png" crc="338386725" ref="index"/>
-    <file name="u24096-4.png" crc="4273665313" ref="index"/>
-    <file name="u24096-4_2x.png" crc="4251701934" ref="index"/>
-    <file name="u24096-42.png" crc="4273665313" ref="index"/>
-    <file name="u24096-4_2x2.png" crc="4251701934" ref="index"/>
+    <file name="u24096-4.png" crc="3941293877" ref="index"/>
+    <file name="u24096-4_2x.png" crc="3985319431" ref="index"/>
+    <file name="u24096-42.png" crc="3941293877" ref="index"/>
+    <file name="u24096-4_2x2.png" crc="3985319431" ref="index"/>
     <file name="u24089-6.png" crc="28364563" ref="catalog"/>
     <file name="u24089-6_2x.png" crc="4173929894" ref="catalog"/>
     <file name="bird_gif.gif" crc="438272212" seo="true" ref="postcard-project">
@@ -104,7 +104,7 @@
     <file name="u22933-52.png" crc="4108520647" ref="index"/>
     <file name="u22933-5_2x2.png" crc="3803421596" ref="index"/>
   </folder>
-  <file name="index.html" crc="3799257005" seo="true" mt="1611366474373" redirect="true"/>
+  <file name="index.html" crc="4015868839" seo="true" mt="1611366522908" redirect="true"/>
   <file name="lab-kill-lab-2020.html" crc="3956860566" seo="true" mt="1611328056734" redirect="true"/>
   <file name="postcard-project.html" crc="4159597650" seo="true" mt="1611338667941" redirect="true"/>
   <file name="catalog.html" crc="3865578858" seo="true" mt="1611365065061" redirect="true"/>
