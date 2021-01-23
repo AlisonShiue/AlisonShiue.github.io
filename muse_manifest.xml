@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611339789061">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611361893309">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="259354625" ref="index"/>
@@ -35,8 +35,8 @@
     </file>
     <file name="u22933-7.png" crc="3899079169" ref="index"/>
     <file name="u22933-7_2x.png" crc="274800434" ref="index"/>
-    <file name="u22940-5.png" crc="4123068583" ref="index"/>
-    <file name="u22940-5_2x.png" crc="3956790721" ref="index"/>
+    <file name="u22940-5.png" crc="129977929" ref="index"/>
+    <file name="u22940-5_2x.png" crc="448538050" ref="index"/>
     <file name="u22946-7.png" crc="502615944" ref="index"/>
     <file name="u22946-7_2x.png" crc="185645728" ref="index"/>
     <file name="technoia_1219_66_2x.jpg" crc="4038771135" seo="true" ref="lab-kill-lab-2020">
@@ -59,8 +59,8 @@
     </file>
     <file name="u22933-72.png" crc="3899079169" ref="index"/>
     <file name="u22933-7_2x2.png" crc="274800434" ref="index"/>
-    <file name="u22940-52.png" crc="4123068583" ref="index"/>
-    <file name="u22940-5_2x2.png" crc="3956790721" ref="index"/>
+    <file name="u22940-52.png" crc="129977929" ref="index"/>
+    <file name="u22940-5_2x2.png" crc="448538050" ref="index"/>
     <file name="u22946-72.png" crc="502615944" ref="index"/>
     <file name="u22946-7_2x2.png" crc="185645728" ref="index"/>
     <file name="u24096-4.png" crc="4273665313" ref="index"/>
@@ -102,10 +102,10 @@
     <file name="u24326-r.png" crc="3968793210" ref="ableton"/>
     <file name="u24326-r_2x.png" crc="519812721" ref="ableton"/>
   </folder>
-  <file name="index.html" crc="3985394470" seo="true" mt="1611326957299" redirect="true"/>
+  <file name="index.html" crc="3979743619" seo="true" mt="1611361879266" redirect="true"/>
   <file name="lab-kill-lab-2020.html" crc="3956860566" seo="true" mt="1611328056734" redirect="true"/>
   <file name="postcard-project.html" crc="4159597650" seo="true" mt="1611338667941" redirect="true"/>
-  <file name="catalog.html" crc="4161599716" seo="true" mt="1611338789744" redirect="true"/>
+  <file name="catalog.html" crc="314564141" seo="true" mt="1611360432042" redirect="true"/>
   <file name="ableton.html" crc="9723489" seo="true" mt="1611339782492" redirect="true"/>
   <file name="touchdesigner.html" crc="148788860" seo="true" mt="1611338446037" redirect="false"/>
 </manifest>
