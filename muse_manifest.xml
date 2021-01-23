@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611361893309">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611364995886">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="259354625" ref="index"/>
@@ -7,19 +7,20 @@
     <file name="postcard-project.css" crc="396507109" ref="postcard-project"/>
     <file name="catalog.css" crc="95514938" ref="catalog"/>
     <file name="touchdesigner.css" crc="93731750" ref="touchdesigner"/>
-    <file name="ableton.css" crc="788126" ref="ableton"/>
+    <file name="ableton.css" crc="3913880106" ref="ableton"/>
+    <file name="cinema-4d.css" crc="93731750" ref="cinema-4d"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner"/>
-    <file name="museutils.js" crc="3803043152" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner"/>
-    <file name="whatinput.js" crc="86476730" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner"/>
-    <file name="museconfig.js" crc="380897831" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
+    <file name="museutils.js" crc="3803043152" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
+    <file name="museconfig.js" crc="380897831" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
     <file name="webpro.js" crc="242022427" ref="lab-kill-lab-2020"/>
     <file name="musewpslideshow.js" crc="457073769" ref="lab-kill-lab-2020"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="lab-kill-lab-2020"/>
     <file name="touchswipe.js" crc="4066113679" ref="lab-kill-lab-2020"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner"/>
-    <file name="require.js" crc="4157109226" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
+    <file name="require.js" crc="4157109226" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
@@ -105,7 +106,8 @@
   <file name="index.html" crc="3979743619" seo="true" mt="1611361879266" redirect="true"/>
   <file name="lab-kill-lab-2020.html" crc="3956860566" seo="true" mt="1611328056734" redirect="true"/>
   <file name="postcard-project.html" crc="4159597650" seo="true" mt="1611338667941" redirect="true"/>
-  <file name="catalog.html" crc="314564141" seo="true" mt="1611360432042" redirect="true"/>
-  <file name="ableton.html" crc="9723489" seo="true" mt="1611339782492" redirect="true"/>
-  <file name="touchdesigner.html" crc="148788860" seo="true" mt="1611338446037" redirect="false"/>
+  <file name="catalog.html" crc="314564141" seo="true" mt="1611364989302" redirect="true"/>
+  <file name="ableton.html" crc="275243771" seo="true" mt="1611364940175" redirect="true"/>
+  <file name="touchdesigner.html" crc="148788860" seo="true" mt="1611364976217" redirect="false"/>
+  <file name="cinema-4d.html" crc="4169971582" seo="true" mt="1611364497373" redirect="false"/>
 </manifest>
