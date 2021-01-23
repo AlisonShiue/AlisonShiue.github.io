@@ -1,26 +1,27 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611364995886">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611366358601">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="259354625" ref="index"/>
+    <file name="index.css" crc="434834187" ref="index"/>
     <file name="lab-kill-lab-2020.css" crc="3865865460" ref="lab-kill-lab-2020"/>
-    <file name="nomq_index.css" crc="3882564055" ref="index"/>
+    <file name="nomq_index.css" crc="4143409501" ref="index"/>
     <file name="postcard-project.css" crc="396507109" ref="postcard-project"/>
-    <file name="catalog.css" crc="95514938" ref="catalog"/>
+    <file name="catalog.css" crc="3825928843" ref="catalog"/>
     <file name="touchdesigner.css" crc="93731750" ref="touchdesigner"/>
-    <file name="ableton.css" crc="3913880106" ref="ableton"/>
+    <file name="ableton.css" crc="210046287" ref="ableton"/>
     <file name="cinema-4d.css" crc="93731750" ref="cinema-4d"/>
+    <file name="arduino.css" crc="508546564" ref="arduino"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
-    <file name="museutils.js" crc="3803043152" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
-    <file name="whatinput.js" crc="86476730" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
-    <file name="museconfig.js" crc="380897831" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d:arduino"/>
+    <file name="museutils.js" crc="3803043152" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d:arduino"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d:arduino"/>
+    <file name="museconfig.js" crc="380897831" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d:arduino"/>
     <file name="webpro.js" crc="242022427" ref="lab-kill-lab-2020"/>
     <file name="musewpslideshow.js" crc="457073769" ref="lab-kill-lab-2020"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="lab-kill-lab-2020"/>
     <file name="touchswipe.js" crc="4066113679" ref="lab-kill-lab-2020"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
-    <file name="require.js" crc="4157109226" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d:arduino"/>
+    <file name="require.js" crc="4157109226" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d:arduino"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
@@ -34,12 +35,10 @@
       <caption webpage="lab-kill-lab-2020" alt=""/>
       <caption webpage="lab-kill-lab" alt=""/>
     </file>
-    <file name="u22933-7.png" crc="3899079169" ref="index"/>
-    <file name="u22933-7_2x.png" crc="274800434" ref="index"/>
-    <file name="u22940-5.png" crc="129977929" ref="index"/>
-    <file name="u22940-5_2x.png" crc="448538050" ref="index"/>
-    <file name="u22946-7.png" crc="502615944" ref="index"/>
-    <file name="u22946-7_2x.png" crc="185645728" ref="index"/>
+    <file name="u22940-5.png" crc="4059217780" ref="index"/>
+    <file name="u22940-5_2x.png" crc="480645499" ref="index"/>
+    <file name="u22946-7.png" crc="4081398697" ref="index"/>
+    <file name="u22946-7_2x.png" crc="338386725" ref="index"/>
     <file name="technoia_1219_66_2x.jpg" crc="4038771135" seo="true" ref="lab-kill-lab-2020">
       <caption webpage="lab-kill-lab-2020" alt=""/>
     </file>
@@ -58,16 +57,14 @@
     <file name="technoia_1219_31968x45_2x.jpg" crc="4113707605" seo="true" ref="lab-kill-lab-2020">
       <caption webpage="lab-kill-lab-2020" alt=""/>
     </file>
-    <file name="u22933-72.png" crc="3899079169" ref="index"/>
-    <file name="u22933-7_2x2.png" crc="274800434" ref="index"/>
-    <file name="u22940-52.png" crc="129977929" ref="index"/>
-    <file name="u22940-5_2x2.png" crc="448538050" ref="index"/>
-    <file name="u22946-72.png" crc="502615944" ref="index"/>
-    <file name="u22946-7_2x2.png" crc="185645728" ref="index"/>
-    <file name="u24096-4.png" crc="4273665313" ref="index"/>
-    <file name="u24096-4_2x.png" crc="4251701934" ref="index"/>
-    <file name="u24096-42.png" crc="4273665313" ref="index"/>
-    <file name="u24096-4_2x2.png" crc="4251701934" ref="index"/>
+    <file name="u22940-52.png" crc="4059217780" ref="index"/>
+    <file name="u22940-5_2x2.png" crc="480645499" ref="index"/>
+    <file name="u22946-72.png" crc="4081398697" ref="index"/>
+    <file name="u22946-7_2x2.png" crc="338386725" ref="index"/>
+    <file name="u24096-4.png" crc="3941293877" ref="index"/>
+    <file name="u24096-4_2x.png" crc="3985319431" ref="index"/>
+    <file name="u24096-42.png" crc="3941293877" ref="index"/>
+    <file name="u24096-4_2x2.png" crc="3985319431" ref="index"/>
     <file name="u24089-6.png" crc="28364563" ref="catalog"/>
     <file name="u24089-6_2x.png" crc="4173929894" ref="catalog"/>
     <file name="bird_gif.gif" crc="438272212" seo="true" ref="postcard-project">
@@ -102,12 +99,17 @@
     <file name="u24326_2x.png" crc="519812721" ref="ableton"/>
     <file name="u24326-r.png" crc="3968793210" ref="ableton"/>
     <file name="u24326-r_2x.png" crc="519812721" ref="ableton"/>
+    <file name="u22933-5.png" crc="4108520647" ref="index"/>
+    <file name="u22933-5_2x.png" crc="3803421596" ref="index"/>
+    <file name="u22933-52.png" crc="4108520647" ref="index"/>
+    <file name="u22933-5_2x2.png" crc="3803421596" ref="index"/>
   </folder>
-  <file name="index.html" crc="3979743619" seo="true" mt="1611361879266" redirect="true"/>
+  <file name="index.html" crc="4015868839" seo="true" mt="1611366350430" redirect="true"/>
   <file name="lab-kill-lab-2020.html" crc="3956860566" seo="true" mt="1611328056734" redirect="true"/>
   <file name="postcard-project.html" crc="4159597650" seo="true" mt="1611338667941" redirect="true"/>
-  <file name="catalog.html" crc="314564141" seo="true" mt="1611364989302" redirect="true"/>
-  <file name="ableton.html" crc="275243771" seo="true" mt="1611364940175" redirect="true"/>
+  <file name="catalog.html" crc="3865578858" seo="true" mt="1611365065061" redirect="true"/>
+  <file name="ableton.html" crc="3797067089" seo="true" mt="1611365338182" redirect="true"/>
   <file name="touchdesigner.html" crc="148788860" seo="true" mt="1611364976217" redirect="false"/>
   <file name="cinema-4d.html" crc="4169971582" seo="true" mt="1611364497373" redirect="false"/>
+  <file name="arduino.html" crc="472946908" seo="true" mt="1611365154878" redirect="false"/>
 </manifest>
