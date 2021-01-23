@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611366529682">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x,2x" timestamp="1611402749869">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="434834187" ref="index"/>
@@ -7,9 +7,9 @@
     <file name="postcard-project.css" crc="396507109" ref="postcard-project"/>
     <file name="catalog.css" crc="3825928843" ref="catalog"/>
     <file name="touchdesigner.css" crc="93731750" ref="touchdesigner"/>
-    <file name="ableton.css" crc="210046287" ref="ableton"/>
+    <file name="ableton.css" crc="788126" ref="ableton"/>
     <file name="cinema-4d.css" crc="93731750" ref="cinema-4d"/>
-    <file name="arduino.css" crc="508546564" ref="arduino"/>
+    <file name="arduino.css" crc="93731750" ref="arduino"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab-kill-lab-2020:postcard-project:catalog:ableton:touchdesigner:cinema-4d:arduino"/>
@@ -104,12 +104,12 @@
     <file name="u22933-52.png" crc="4108520647" ref="index"/>
     <file name="u22933-5_2x2.png" crc="3803421596" ref="index"/>
   </folder>
-  <file name="index.html" crc="4015868839" seo="true" mt="1611366522908" redirect="true"/>
-  <file name="lab-kill-lab-2020.html" crc="3956860566" seo="true" mt="1611328056734" redirect="true"/>
-  <file name="postcard-project.html" crc="4159597650" seo="true" mt="1611338667941" redirect="true"/>
-  <file name="catalog.html" crc="3865578858" seo="true" mt="1611365065061" redirect="true"/>
-  <file name="ableton.html" crc="3797067089" seo="true" mt="1611365338182" redirect="true"/>
-  <file name="touchdesigner.html" crc="148788860" seo="true" mt="1611364976217" redirect="false"/>
-  <file name="cinema-4d.html" crc="4169971582" seo="true" mt="1611364497373" redirect="false"/>
-  <file name="arduino.html" crc="472946908" seo="true" mt="1611365154878" redirect="false"/>
+  <file name="index.html" crc="4015868839" seo="true" mt="1611402733964" redirect="true"/>
+  <file name="lab-kill-lab-2020.html" crc="4016770852" seo="true" mt="1611402733964" redirect="true"/>
+  <file name="postcard-project.html" crc="4159597650" seo="true" mt="1611402733964" redirect="true"/>
+  <file name="catalog.html" crc="3865578858" seo="true" mt="1611402733964" redirect="true"/>
+  <file name="ableton.html" crc="9723489" seo="true" mt="1611402733964" redirect="true"/>
+  <file name="touchdesigner.html" crc="148788860" seo="true" mt="1611402733964" redirect="false"/>
+  <file name="cinema-4d.html" crc="4169971582" seo="true" mt="1611402733964" redirect="false"/>
+  <file name="arduino.html" crc="353590130" seo="true" mt="1611402733964" redirect="false"/>
 </manifest>
